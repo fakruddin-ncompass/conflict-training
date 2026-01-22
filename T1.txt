@@ -1,2 +1,4 @@
 main branch
 Hello mars
+usecase3: Making changes in branch2 and pushing it which were meant to be in branch 1
+
